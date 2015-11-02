@@ -7,15 +7,22 @@ J'ai 19 ans, je pratique la musique.
 
 j'ai commence a apprendre le Développement en tant que autodidacte
 
-Pour le moment je debute dans le Développement mais je connais un peu de tout les languages en niveaux débutant  
+Pour le moment je debute dans le Développement mais je connais un peu de tout les languages en niveaux débutant 
+
+Je suis curieux et j'ai envie d'en apprendre plus sur l'informatique
 
 
 <h2>Mes Formations</h2>
 
-*Bac Pro Hôtellerie (1ans pas terminer)
+* Bac Pro Hôtellerie 
 
-*Cap Ebenisterie    (1ans pas terminer)  
+* Cap Ebenisterie     
 
+<h3>Experience Professionnele</h3>
+
+* Vente 
+
+* Serveur 
 
 
 <h2>Pourquoi chez simplonline</h2>
